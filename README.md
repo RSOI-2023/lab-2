@@ -18,4 +18,5 @@ git clone https://github.com/RSOI-2023/lab-2
 ## Полезные материалы:
 - Введение в Spring: https://habr.com/ru/post/455794/
 - Что такое Spring Framework?: https://habr.com/ru/post/490586/
+- Spring-построитель, доклад Евгения Борисова: https://www.youtube.com/watch?v=rd6wxPzXQvo&t=3032s&ab_channel=JPoint%2CJoker%D0%B8JUGru
 - Spring-потрошитель, доклад Евгения Борисова: https://youtu.be/BmBr5diz8WA
