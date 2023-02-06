@@ -30,5 +30,5 @@ test {
 }
 
 application {
-    mainClassName('com.github.rsoi.Main')
+    mainClassName('com.github.rsoi.SpringBootConsoleApplication')
 }
